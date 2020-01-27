@@ -1,0 +1,1 @@
+{'fahmed2': {'fname': 'Farhan', 'lname': 'Ahmed', 'address': 'Gulshan', 'city': 'Karachi', 'country': 'Pakistan', 'education': 'Masters CS', 'salary': '90000'}, 'sshamim3': {'fname': 'Shehroz', 'lname': 'Shamim', 'address': 'Sadar', 'city': 'Karachi', 'country': "Pakistan", 'education': 'Masters CS', 'salary': '80000'}}
